@@ -1,0 +1,7 @@
+*~
+Makefile
+meego-ux-media-lastfm.pro.user
+.moc
+.obj
+metadata
+meego-ux-media-lastfm*.tar.bz2
