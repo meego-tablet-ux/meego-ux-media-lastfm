@@ -56,7 +56,6 @@ private:
 
     QNetworkAccessManager manager;
     QHash<QString, CallerInfo> m_callers;
-    QSettings *settings;
     QString api_key;
     QString baseurl;
 };
